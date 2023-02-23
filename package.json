@@ -1,5 +1,5 @@
 {
-  "name": "@alexsielicki/knockout-projections",
+  "name": "@asielick/knockout-projections",
   "version": "1.1.0",
   "description": "Knockout.js observable arrays get smarter",
   "main": "dist/knockout-projections.js",
